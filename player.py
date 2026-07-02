@@ -10,7 +10,7 @@ positions = ["PG","SG","SF","PF","C"]
 positions_weights =[25,25,20,15,15]
 
 Archetypes ={
-  "PG": ["Playmaker", "Shot Creator", "Floor General, "3-and-D Guard"],
+  "PG": ["Playmaker", "Shot Creator", "Floor General, "3-and-D "],
   "SG": ["Sharpshooter", "Scoring Machine", "Lockdown Defender", "Slasher"],
   "SF": ["Two-Way Phenom", "Point Foward", "Slasher", "3-and-D Wing"],
   "PF": ["Stretch Four", "Paint Beast", "Glass Cleaner", "Post Playmaker"],
